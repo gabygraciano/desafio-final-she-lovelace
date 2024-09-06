@@ -50,12 +50,15 @@ python vendas.py
 
 ### No espaço abaixo, coloque as informações do produto:
 
-![image](https://github.com/user-attachments/assets/9ba3f6c2-4c0b-496e-a0df-721a8f21b5b8)
+![image](https://github.com/user-attachments/assets/ac4454bc-c83c-4b1c-ab04-e25cc0f86bcc)
+
 
 ### Quando finalizar, essa imagem deve aparecer:
 
-![image](https://github.com/user-attachments/assets/afd365f2-42a8-4ea4-bd33-1e742f7017a3)
+![image](https://github.com/user-attachments/assets/6d351c17-cf69-4c1b-8907-ddc3022d77de)
+
 
 ### Na interface, clique em algum desses botões para gerar os gráficos do relatório
 
-![image](https://github.com/user-attachments/assets/c11a1e82-d142-4c34-8739-ce0bc784a5e6)
+![image](https://github.com/user-attachments/assets/2aefec8a-d511-49ca-a76b-93fc859197c7)
+
